@@ -1,6 +1,8 @@
-# Jongmin
+# Smart Surface Sensing System (4S)
 % This code and information is uploaded for Smart Surface Sensing System (4S).
+
 % Reference: Kim et al., 2018 AFM % 
+
 % /////////////////////////////////////////////////////////////
 % Contact information:
 
