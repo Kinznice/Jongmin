@@ -1,1 +1,14 @@
 
+%%
+
+LED2.py > 
+Code to save the data in the Microcomputer (RPi) from the Microcontroller (Arduino).
+
+LED8.ino >
+Code to recognize LED curcit signal in Microcontroller (Arduino).
+
+ftpled.sh >
+Code to automatically transmit LED data from  Microcomputer (RPi).
+
+ftpled.sh >
+Code to automatically transmit image data from  Microcomputer (RPi).
