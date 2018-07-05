@@ -3,6 +3,10 @@
 
 % Reference: Kim et al., 2018 AFM % 
 
+4S_materials_eng.xlsx > Item list
+arduino_rev1_final.zip > PCB board
+4S code > information about 4S code
+
 % /////////////////////////////////////////////////////////////
 % Contact information:
 
